@@ -18,3 +18,22 @@ Se desarrollaran uno a uno los vídeos propuestos en clase
 
 ### Este apartado nos enseña a empezar a acomodar las diferetes clases de objetos con ayuda de class para poder darle una mejor visualización como añadiendo objetos, centrando los objetos, agregando colores de lacalculadora, colores de fondo, dandole un tamaño a cada boton y su respectivo borde, opcion de cambio de color y nos permite con ayuda de scipt.js hacer todas estas funciones y obtener un gran resultado 
 ![Style-scss,map,css-](/img/styles.png "Calculadora personalizada-Style-scss,map,css-")
+
+# Ejercicio 2
+### Nos muestra un menu desplegable altamente decorado con ayuda de sus diferentes funciónes de programación tales como Javascript, css, etc
+![Menu_desplegable](/img/menu.png "Menu_desplegable")
+# styles(css,css.map,scss)
+## css
+
+### El menú tiene un botón de alternancia que se puede utilizar para abrir y cerrar el menú. Cuando se hace clic en el botón, los elementos del menú aparecen en la pantalla. Los elementos del menú se muestran verticalmente y están ocultos inicialmente.
+
+### El elemento activo del menú se destaca con un color diferente al resto. Al hacer clic en un elemento del menú, el usuario será llevado a la página correspondiente.
+
+### En resumen, este código CSS es utilizado para crear un menú de navegación fijo, que tiene una apariencia atractiva y es fácil de usar.
+
+## Css.map
+### Este es un mapeo de caracteres que se utiliza para relacionar el código generado con el código fuente original. Se utiliza para depurar el código y encontrar errores más rápido. Es una herramienta útil para los desarrolladores.
+
+## Scss
+### Este es un código CSS que sirve para crear un menú de navegación. El menú tiene una posición fija y un fondo blanco con bordes redondeados. Cuando el menú se abre, se expande y muestra los ítems de la lista que contienen un icono y texto. El texto está oculto inicialmente y aparece cuando el menú se abre. El código utiliza la fuente Poppins de Google Fonts.
+
