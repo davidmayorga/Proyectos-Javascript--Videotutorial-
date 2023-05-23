@@ -58,7 +58,7 @@ Se desarrollaran uno a uno los vídeos propuestos en clase
 
 # Ejercicio 4 
 # Index
-### Este código es para una página web en español. Contiene etiquetas HTML que definen la estructura de la página, así como información importante como la hoja de estilos, el título de la página y la codificación utilizada. También hay un botón con un ícono que se puede hacer clic para activar una función y un archivo JavaScript vinculado a la página.
+### Este código es para una página web en español. Contiene etiquetas HTML que definen la estructura de la página, así como información importante como la hoja de estilos, el título de la página y la codificación utilizada. También hay un botón con un ícono que se puede hacer clic para activar una función y un archivo JavaScript vinculado a la página, que le permite activar el modo oscuro
 ![tema oscuro](/img/dark-index.png "Tema_Oscuro")
 
 # Style(css,css.map,scss)
@@ -74,3 +74,7 @@ Se desarrollaran uno a uno los vídeos propuestos en clase
 
 ### El código JavaScript define la funcionalidad del botón, permitiendo que se active la clase "active" en el cuerpo de la página y en el botón mismo cuando se hace clic en él. En resumen, estos códigos trabajan juntos para crear un botón interactivo que cambia de color y forma cuando se hace clic en él, y también cambia el fondo de la página.
 ![tema oscuro](/img/theme-dark.png "Tema_Oscuro")
+# Ejercicio 5
+### Describe cómo se utiliza código CSS para hacer que una página web se vea bien y tenga una buena disposición de los elementos. Se utilizan diferentes estilos y colores para hacer que la página se vea atractiva. También se usan consultas de medios para que la página se adapte a diferentes tamaños de pantalla. En el archivo styles.scss, se encuentran diferentes clases y selectores que se usan para estilizar diferentes partes de la página.
+![Menu_Desplegable](/img/menu_desplegable.png "Menu_Desplegable")
+
